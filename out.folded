@@ -1,0 +1,4 @@
+main.exe;[unknown];__vfprintf_internal;[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown] 250000
+main.exe;[unknown];_dl_sysdep_start;dl_main;_dl_init_paths;_dl_important_hwcaps;[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown] 250000
+main.exe;[unknown];next 27000000
+main.exe;do_lookup_x 250000

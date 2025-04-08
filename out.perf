@@ -1,0 +1,467 @@
+main.exe 41131 12986.153714:     250000 cpu-clock:pppH: 
+	ffffffff94f62794 [unknown] ([unknown])
+	ffffffff94f222cc [unknown] ([unknown])
+	ffffffff94f07dd6 [unknown] ([unknown])
+	ffffffff94f0c03a [unknown] ([unknown])
+	ffffffff94f0e015 [unknown] ([unknown])
+	ffffffff94f0e3d8 [unknown] ([unknown])
+	ffffffff94ca6bb9 [unknown] ([unknown])
+	ffffffff959cf9e7 [unknown] ([unknown])
+	ffffffff95a00c07 [unknown] ([unknown])
+	    7f2ee6e0aa60 _dl_important_hwcaps+0x5e0 (/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2)
+	    7f2ee6df5746 _dl_init_paths+0x36 (/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2)
+	    7f2ee6e1010f dl_main+0x182f (/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2)
+	    7f2ee6e0c83c _dl_sysdep_start+0x3fc (/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2)
+	              40 [unknown] ([unknown])
+
+main.exe 41131 12986.153963:     250000 cpu-clock:pppH: 
+	    7f2ee6df8486 do_lookup_x+0x96 (/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2)
+
+main.exe 41131 12986.154212:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c0 next+0x170 (/home/nishkdp2/598APE-HW3/main.exe)
+	40732280769789fd [unknown] ([unknown])
+
+main.exe 41131 12986.154461:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c4 next+0x174 (/home/nishkdp2/598APE-HW3/main.exe)
+	c04c0cd1a394e5de [unknown] ([unknown])
+
+main.exe 41131 12986.154711:     250000 cpu-clock:pppH: 
+	    55afe8a7f66d next+0x11d (/home/nishkdp2/598APE-HW3/main.exe)
+	40461b20cc4c686f [unknown] ([unknown])
+
+main.exe 41131 12986.154961:     250000 cpu-clock:pppH: 
+	    55afe8a7f68d next+0x13d (/home/nishkdp2/598APE-HW3/main.exe)
+	c06807f1bedc3d11 [unknown] ([unknown])
+
+main.exe 41131 12986.155211:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c0 next+0x170 (/home/nishkdp2/598APE-HW3/main.exe)
+	405c88a2dcae6d9f [unknown] ([unknown])
+
+main.exe 41131 12986.155461:     250000 cpu-clock:pppH: 
+	    55afe8a7f6af next+0x15f (/home/nishkdp2/598APE-HW3/main.exe)
+	c0727f674e3495fe [unknown] ([unknown])
+
+main.exe 41131 12986.155711:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	c056af46e0fbbed2 [unknown] ([unknown])
+
+main.exe 41131 12986.155961:     250000 cpu-clock:pppH: 
+	    55afe8a7f69b next+0x14b (/home/nishkdp2/598APE-HW3/main.exe)
+	c05ea837b1eb4aff [unknown] ([unknown])
+
+main.exe 41131 12986.156211:     250000 cpu-clock:pppH: 
+	    55afe8a7f6af next+0x15f (/home/nishkdp2/598APE-HW3/main.exe)
+	c05a52d5e5502321 [unknown] ([unknown])
+
+main.exe 41131 12986.156461:     250000 cpu-clock:pppH: 
+	    55afe8a7f69b next+0x14b (/home/nishkdp2/598APE-HW3/main.exe)
+	c04c077b737466a4 [unknown] ([unknown])
+
+main.exe 41131 12986.156711:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	4046180ef4c17e57 [unknown] ([unknown])
+
+main.exe 41131 12986.156961:     250000 cpu-clock:pppH: 
+	    55afe8a7f68d next+0x13d (/home/nishkdp2/598APE-HW3/main.exe)
+	c068074d7394c955 [unknown] ([unknown])
+
+main.exe 41131 12986.157211:     250000 cpu-clock:pppH: 
+	    55afe8a7f68d next+0x13d (/home/nishkdp2/598APE-HW3/main.exe)
+	40746a796da36253 [unknown] ([unknown])
+
+main.exe 41131 12986.157461:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	c0563b399525fcbd [unknown] ([unknown])
+
+main.exe 41131 12986.157711:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	c0641e19bae0e8a9 [unknown] ([unknown])
+
+main.exe 41131 12986.157961:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c4 next+0x174 (/home/nishkdp2/598APE-HW3/main.exe)
+	c0669c32e505f413 [unknown] ([unknown])
+
+main.exe 41131 12986.158211:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c0 next+0x170 (/home/nishkdp2/598APE-HW3/main.exe)
+	c069d5c9ba437a54 [unknown] ([unknown])
+
+main.exe 41131 12986.158461:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c0 next+0x170 (/home/nishkdp2/598APE-HW3/main.exe)
+	406096f98d9bc019 [unknown] ([unknown])
+
+main.exe 41131 12986.158711:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c4 next+0x174 (/home/nishkdp2/598APE-HW3/main.exe)
+	c06bed264c6e731b [unknown] ([unknown])
+
+main.exe 41131 12986.158961:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	c062d6f829b8f5ee [unknown] ([unknown])
+
+main.exe 41131 12986.159211:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c0 next+0x170 (/home/nishkdp2/598APE-HW3/main.exe)
+	c06afb558dc47309 [unknown] ([unknown])
+
+main.exe 41131 12986.159461:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c4 next+0x174 (/home/nishkdp2/598APE-HW3/main.exe)
+	c0727de592c408bd [unknown] ([unknown])
+
+main.exe 41131 12986.159719:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	c06afbca71074153 [unknown] ([unknown])
+
+main.exe 41131 12986.159968:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c0 next+0x170 (/home/nishkdp2/598APE-HW3/main.exe)
+	404e728908aea9ec [unknown] ([unknown])
+
+main.exe 41131 12986.160218:     250000 cpu-clock:pppH: 
+	    55afe8a7f6b8 next+0x168 (/home/nishkdp2/598APE-HW3/main.exe)
+	404295fd44fe6050 [unknown] ([unknown])
+
+main.exe 41131 12986.160468:     250000 cpu-clock:pppH: 
+	    55afe8a7f66d next+0x11d (/home/nishkdp2/598APE-HW3/main.exe)
+	405c4dbcf509e4e5 [unknown] ([unknown])
+
+main.exe 41131 12986.160718:     250000 cpu-clock:pppH: 
+	    55afe8a7f69b next+0x14b (/home/nishkdp2/598APE-HW3/main.exe)
+	c06fd73ca7e8326e [unknown] ([unknown])
+
+main.exe 41131 12986.160969:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c0 next+0x170 (/home/nishkdp2/598APE-HW3/main.exe)
+	c04bff8ebdd407de [unknown] ([unknown])
+
+main.exe 41131 12986.161218:     250000 cpu-clock:pppH: 
+	    55afe8a7f66d next+0x11d (/home/nishkdp2/598APE-HW3/main.exe)
+	4041d7c8539c545e [unknown] ([unknown])
+
+main.exe 41131 12986.161468:     250000 cpu-clock:pppH: 
+	    55afe8a7f69b next+0x14b (/home/nishkdp2/598APE-HW3/main.exe)
+	c0641c8c99740cce [unknown] ([unknown])
+
+main.exe 41131 12986.161719:     250000 cpu-clock:pppH: 
+	    55afe8a7f6ab next+0x15b (/home/nishkdp2/598APE-HW3/main.exe)
+	c06d8f0e3c096646 [unknown] ([unknown])
+
+main.exe 41131 12986.161968:     250000 cpu-clock:pppH: 
+	    55afe8a7f6af next+0x15f (/home/nishkdp2/598APE-HW3/main.exe)
+	405c58cd94dda13e [unknown] ([unknown])
+
+main.exe 41131 12986.162218:     250000 cpu-clock:pppH: 
+	    55afe8a7f68d next+0x13d (/home/nishkdp2/598APE-HW3/main.exe)
+	c05608039fa50227 [unknown] ([unknown])
+
+main.exe 41131 12986.162468:     250000 cpu-clock:pppH: 
+	    55afe8a7f69b next+0x14b (/home/nishkdp2/598APE-HW3/main.exe)
+	403b3ac83510e499 [unknown] ([unknown])
+
+main.exe 41131 12986.162718:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	4052ecb06dda64cd [unknown] ([unknown])
+
+main.exe 41131 12986.162969:     250000 cpu-clock:pppH: 
+	    55afe8a7f67d next+0x12d (/home/nishkdp2/598APE-HW3/main.exe)
+	4061585c283685ea [unknown] ([unknown])
+
+main.exe 41131 12986.163218:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	c073b0a4b3ac31c3 [unknown] ([unknown])
+
+main.exe 41131 12986.163468:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c0 next+0x170 (/home/nishkdp2/598APE-HW3/main.exe)
+	c0727c56e1810ed0 [unknown] ([unknown])
+
+main.exe 41131 12986.163718:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c0 next+0x170 (/home/nishkdp2/598APE-HW3/main.exe)
+	c051098f6035ead0 [unknown] ([unknown])
+
+main.exe 41131 12986.163968:     250000 cpu-clock:pppH: 
+	    55afe8a7f69b next+0x14b (/home/nishkdp2/598APE-HW3/main.exe)
+	c070561515935b05 [unknown] ([unknown])
+
+main.exe 41131 12986.164218:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c4 next+0x174 (/home/nishkdp2/598APE-HW3/main.exe)
+	c056c1f6b9d32f06 [unknown] ([unknown])
+
+main.exe 41131 12986.164468:     250000 cpu-clock:pppH: 
+	    55afe8a7f66d next+0x11d (/home/nishkdp2/598APE-HW3/main.exe)
+	4046556d4791fb46 [unknown] ([unknown])
+
+main.exe 41131 12986.164718:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	c06502aec0f0754d [unknown] ([unknown])
+
+main.exe 41131 12986.164968:     250000 cpu-clock:pppH: 
+	    55afe8a7f66d next+0x11d (/home/nishkdp2/598APE-HW3/main.exe)
+	406408f2419f651d [unknown] ([unknown])
+
+main.exe 41131 12986.165218:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c4 next+0x174 (/home/nishkdp2/598APE-HW3/main.exe)
+	406e65af1b7c04fd [unknown] ([unknown])
+
+main.exe 41131 12986.165468:     250000 cpu-clock:pppH: 
+	    55afe8a7f69b next+0x14b (/home/nishkdp2/598APE-HW3/main.exe)
+	4066f5eb86e02fc3 [unknown] ([unknown])
+
+main.exe 41131 12986.165718:     250000 cpu-clock:pppH: 
+	    55afe8a7f6ab next+0x15b (/home/nishkdp2/598APE-HW3/main.exe)
+	c06a00e97fd7a84d [unknown] ([unknown])
+
+main.exe 41131 12986.165968:     250000 cpu-clock:pppH: 
+	    55afe8a7f6af next+0x15f (/home/nishkdp2/598APE-HW3/main.exe)
+	402aec43b90374df [unknown] ([unknown])
+
+main.exe 41131 12986.166218:     250000 cpu-clock:pppH: 
+	    55afe8a7f66d next+0x11d (/home/nishkdp2/598APE-HW3/main.exe)
+	c04c976694c30996 [unknown] ([unknown])
+
+main.exe 41131 12986.166468:     250000 cpu-clock:pppH: 
+	    55afe8a7f6b8 next+0x168 (/home/nishkdp2/598APE-HW3/main.exe)
+	c06d1a25f68778e0 [unknown] ([unknown])
+
+main.exe 41131 12986.166718:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c0 next+0x170 (/home/nishkdp2/598APE-HW3/main.exe)
+	405eddaff48df45c [unknown] ([unknown])
+
+main.exe 41131 12986.166968:     250000 cpu-clock:pppH: 
+	    55afe8a7f68d next+0x13d (/home/nishkdp2/598APE-HW3/main.exe)
+	406001c31e4ea340 [unknown] ([unknown])
+
+main.exe 41131 12986.167218:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	c06b7f99027c24c8 [unknown] ([unknown])
+
+main.exe 41131 12986.167468:     250000 cpu-clock:pppH: 
+	    55afe8a7f69b next+0x14b (/home/nishkdp2/598APE-HW3/main.exe)
+	c06e8c2a7d7130f4 [unknown] ([unknown])
+
+main.exe 41131 12986.167719:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	c068b6db89de3385 [unknown] ([unknown])
+
+main.exe 41131 12986.167968:     250000 cpu-clock:pppH: 
+	    55afe8a7f68d next+0x13d (/home/nishkdp2/598APE-HW3/main.exe)
+	4064031cfeddc003 [unknown] ([unknown])
+
+main.exe 41131 12986.168219:     250000 cpu-clock:pppH: 
+	    55afe8a7f6ab next+0x15b (/home/nishkdp2/598APE-HW3/main.exe)
+	405e8a6107dbf792 [unknown] ([unknown])
+
+main.exe 41131 12986.168468:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	4056f1ee9eb454b4 [unknown] ([unknown])
+
+main.exe 41131 12986.168718:     250000 cpu-clock:pppH: 
+	    55afe8a7f68d next+0x13d (/home/nishkdp2/598APE-HW3/main.exe)
+	4053f20f39fd5193 [unknown] ([unknown])
+
+main.exe 41131 12986.168969:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c0 next+0x170 (/home/nishkdp2/598APE-HW3/main.exe)
+	c05a64ee1876ec34 [unknown] ([unknown])
+
+main.exe 41131 12986.169218:     250000 cpu-clock:pppH: 
+	    55afe8a7f66d next+0x11d (/home/nishkdp2/598APE-HW3/main.exe)
+	c04cdfe6cdbf641d [unknown] ([unknown])
+
+main.exe 41131 12986.169468:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c0 next+0x170 (/home/nishkdp2/598APE-HW3/main.exe)
+	401e993a65ab5de2 [unknown] ([unknown])
+
+main.exe 41131 12986.169718:     250000 cpu-clock:pppH: 
+	    55afe8a7f6ab next+0x15b (/home/nishkdp2/598APE-HW3/main.exe)
+	40610d4dd065f6fa [unknown] ([unknown])
+
+main.exe 41131 12986.169968:     250000 cpu-clock:pppH: 
+	    55afe8a7f68d next+0x13d (/home/nishkdp2/598APE-HW3/main.exe)
+	40244852de9bb5ab [unknown] ([unknown])
+
+main.exe 41131 12986.170218:     250000 cpu-clock:pppH: 
+	    55afe8a7f6af next+0x15f (/home/nishkdp2/598APE-HW3/main.exe)
+	c04c37043bd816d8 [unknown] ([unknown])
+
+main.exe 41131 12986.170468:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c4 next+0x174 (/home/nishkdp2/598APE-HW3/main.exe)
+	c06c72fda432c470 [unknown] ([unknown])
+
+main.exe 41131 12986.170719:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c4 next+0x174 (/home/nishkdp2/598APE-HW3/main.exe)
+	c04ca1022be43354 [unknown] ([unknown])
+
+main.exe 41131 12986.170969:     250000 cpu-clock:pppH: 
+	    55afe8a7f6ab next+0x15b (/home/nishkdp2/598APE-HW3/main.exe)
+	40466d0b9d84b960 [unknown] ([unknown])
+
+main.exe 41131 12986.171219:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c0 next+0x170 (/home/nishkdp2/598APE-HW3/main.exe)
+	c051d81280dd5d42 [unknown] ([unknown])
+
+main.exe 41131 12986.171468:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	4053eb6a2e644440 [unknown] ([unknown])
+
+main.exe 41131 12986.171718:     250000 cpu-clock:pppH: 
+	    55afe8a7f6af next+0x15f (/home/nishkdp2/598APE-HW3/main.exe)
+	c06c2f52ef781815 [unknown] ([unknown])
+
+main.exe 41131 12986.171969:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c0 next+0x170 (/home/nishkdp2/598APE-HW3/main.exe)
+	405ee69482bb41b6 [unknown] ([unknown])
+
+main.exe 41131 12986.172218:     250000 cpu-clock:pppH: 
+	    55afe8a7f67d next+0x12d (/home/nishkdp2/598APE-HW3/main.exe)
+	40693a904a0ee21e [unknown] ([unknown])
+
+main.exe 41131 12986.172468:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	c007fd43b117acc0 [unknown] ([unknown])
+
+main.exe 41131 12986.172718:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	405c46ad457b4bcc [unknown] ([unknown])
+
+main.exe 41131 12986.172968:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c4 next+0x174 (/home/nishkdp2/598APE-HW3/main.exe)
+	4063b357e5a2d4b2 [unknown] ([unknown])
+
+main.exe 41131 12986.173219:     250000 cpu-clock:pppH: 
+	    55afe8a7f66d next+0x11d (/home/nishkdp2/598APE-HW3/main.exe)
+	406e4641264f1f6c [unknown] ([unknown])
+
+main.exe 41131 12986.173468:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c0 next+0x170 (/home/nishkdp2/598APE-HW3/main.exe)
+	4066fd79c4cd1f5a [unknown] ([unknown])
+
+main.exe 41131 12986.173718:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	c06ac8a0d55f2e04 [unknown] ([unknown])
+
+main.exe 41131 12986.173968:     250000 cpu-clock:pppH: 
+	    55afe8a7f6ab next+0x15b (/home/nishkdp2/598APE-HW3/main.exe)
+	40641a59171c6c79 [unknown] ([unknown])
+
+main.exe 41131 12986.174218:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c0 next+0x170 (/home/nishkdp2/598APE-HW3/main.exe)
+	404259f0eb3954ef [unknown] ([unknown])
+
+main.exe 41131 12986.174469:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c0 next+0x170 (/home/nishkdp2/598APE-HW3/main.exe)
+	405770cbafac2758 [unknown] ([unknown])
+
+main.exe 41131 12986.174718:     250000 cpu-clock:pppH: 
+	    55afe8a7f68d next+0x13d (/home/nishkdp2/598APE-HW3/main.exe)
+	406d99bfdc66a980 [unknown] ([unknown])
+
+main.exe 41131 12986.174968:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	406008102bdfccab [unknown] ([unknown])
+
+main.exe 41131 12986.175218:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	4027a19cffdeec0b [unknown] ([unknown])
+
+main.exe 41131 12986.175469:     250000 cpu-clock:pppH: 
+	    55afe8a7f6af next+0x15f (/home/nishkdp2/598APE-HW3/main.exe)
+	40686c54c11a0fd6 [unknown] ([unknown])
+
+main.exe 41131 12986.175719:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	c06e25602e7fdd1f [unknown] ([unknown])
+
+main.exe 41131 12986.175969:     250000 cpu-clock:pppH: 
+	    55afe8a7f6ab next+0x15b (/home/nishkdp2/598APE-HW3/main.exe)
+	405de59fbbd7d1c3 [unknown] ([unknown])
+
+main.exe 41131 12986.176218:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c0 next+0x170 (/home/nishkdp2/598APE-HW3/main.exe)
+	40573d9ecc10bcc1 [unknown] ([unknown])
+
+main.exe 41131 12986.176468:     250000 cpu-clock:pppH: 
+	    55afe8a7f68d next+0x13d (/home/nishkdp2/598APE-HW3/main.exe)
+	4053dcf335e4e07a [unknown] ([unknown])
+
+main.exe 41131 12986.176718:     250000 cpu-clock:pppH: 
+	    55afe8a7f68d next+0x13d (/home/nishkdp2/598APE-HW3/main.exe)
+	406339e363be5edc [unknown] ([unknown])
+
+main.exe 41131 12986.176969:     250000 cpu-clock:pppH: 
+	    55afe8a7f6b8 next+0x168 (/home/nishkdp2/598APE-HW3/main.exe)
+	404682b01533e491 [unknown] ([unknown])
+
+main.exe 41131 12986.177218:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c0 next+0x170 (/home/nishkdp2/598APE-HW3/main.exe)
+	4054eff7db9696e9 [unknown] ([unknown])
+
+main.exe 41131 12986.177468:     250000 cpu-clock:pppH: 
+	    55afe8a7f69b next+0x14b (/home/nishkdp2/598APE-HW3/main.exe)
+	40702a1cc9fdbf6b [unknown] ([unknown])
+
+main.exe 41131 12986.177719:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	40637b7771a165d0 [unknown] ([unknown])
+
+main.exe 41131 12986.177968:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c0 next+0x170 (/home/nishkdp2/598APE-HW3/main.exe)
+	406b344d84e33903 [unknown] ([unknown])
+
+main.exe 41131 12986.178219:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c0 next+0x170 (/home/nishkdp2/598APE-HW3/main.exe)
+	c05ef87359a7760d [unknown] ([unknown])
+
+main.exe 41131 12986.178468:     250000 cpu-clock:pppH: 
+	    55afe8a7f6ab next+0x15b (/home/nishkdp2/598APE-HW3/main.exe)
+	40400e248f22e2a7 [unknown] ([unknown])
+
+main.exe 41131 12986.178718:     250000 cpu-clock:pppH: 
+	    55afe8a7f66d next+0x11d (/home/nishkdp2/598APE-HW3/main.exe)
+	c05814bf0882bb74 [unknown] ([unknown])
+
+main.exe 41131 12986.178968:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	c04c324f4db03ffc [unknown] ([unknown])
+
+main.exe 41131 12986.179218:     250000 cpu-clock:pppH: 
+	    55afe8a7f6b8 next+0x168 (/home/nishkdp2/598APE-HW3/main.exe)
+	404611729f1bc0dc [unknown] ([unknown])
+
+main.exe 41131 12986.179468:     250000 cpu-clock:pppH: 
+	    55afe8a7f5c7 next+0x77 (/home/nishkdp2/598APE-HW3/main.exe)
+	           aa5c7 [unknown] ([unknown])
+
+main.exe 41131 12986.179718:     250000 cpu-clock:pppH: 
+	    55afe8a7f67d next+0x12d (/home/nishkdp2/598APE-HW3/main.exe)
+	405c16d4b7108a81 [unknown] ([unknown])
+
+main.exe 41131 12986.179969:     250000 cpu-clock:pppH: 
+	    55afe8a7f6af next+0x15f (/home/nishkdp2/598APE-HW3/main.exe)
+	406b3271ca167c4f [unknown] ([unknown])
+
+main.exe 41131 12986.180219:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	40614b216baa2472 [unknown] ([unknown])
+
+main.exe 41131 12986.180468:     250000 cpu-clock:pppH: 
+	    55afe8a7f6ab next+0x15b (/home/nishkdp2/598APE-HW3/main.exe)
+	c0704c2d6dcb067c [unknown] ([unknown])
+
+main.exe 41131 12986.180718:     250000 cpu-clock:pppH: 
+	    55afe8a7f6bc next+0x16c (/home/nishkdp2/598APE-HW3/main.exe)
+	4064abd1a604a920 [unknown] ([unknown])
+
+main.exe 41131 12986.180968:     250000 cpu-clock:pppH: 
+	    55afe8a7f6c0 next+0x170 (/home/nishkdp2/598APE-HW3/main.exe)
+	c06d2915c09fd153 [unknown] ([unknown])
+
+main.exe 41131 12986.181220:     250000 cpu-clock:pppH: 
+	ffffffff94f82468 [unknown] ([unknown])
+	ffffffff94f833a7 [unknown] ([unknown])
+	ffffffff94f83426 [unknown] ([unknown])
+	ffffffff94f20356 [unknown] ([unknown])
+	ffffffff94f063c0 [unknown] ([unknown])
+	ffffffff94f0a49e [unknown] ([unknown])
+	ffffffff94f0c047 [unknown] ([unknown])
+	ffffffff94f0e015 [unknown] ([unknown])
+	ffffffff94f0e3d8 [unknown] ([unknown])
+	ffffffff94ca6bb9 [unknown] ([unknown])
+	ffffffff959cf9e7 [unknown] ([unknown])
+	ffffffff95a00c07 [unknown] ([unknown])
+	    7f2ee6b4455d __vfprintf_internal+0x52d (/usr/lib/x86_64-linux-gnu/libc.so.6)
+	               0 [unknown] ([unknown])
+
