@@ -40,15 +40,10 @@ int timesteps;
 double dt;
 double G;
 
-
-#include <omp.h>
-
 Planet* next(Planet* planets) {
    Planet* nextplanets = (Planet*)malloc(sizeof(Planet) * nplanets);
-
-   // Copy current state
    #pragma omp parallel for
-   for (int i = 0; i < nplanets; i++) {
+   for (int i=0; i<nplanets; i++) {
       nextplanets[i].vx = planets[i].vx;
       nextplanets[i].vy = planets[i].vy;
       nextplanets[i].mass = planets[i].mass;
@@ -56,30 +51,23 @@ Planet* next(Planet* planets) {
       nextplanets[i].y = planets[i].y;
    }
 
-   // Calculate interactions and update velocity/position
    #pragma omp parallel for
-   for (int i = 0; i < nplanets; i++) {
-      for (int j = 0; j < nplanets; j++) {
-         if (i == j) continue;
+   for (int i=0; i<nplanets; i++) {
+      for (int j=0; j<nplanets; j++) {
          double dx = planets[j].x - planets[i].x;
          double dy = planets[j].y - planets[i].y;
-         double distSqr = dx * dx + dy * dy + 0.0001;
-         double force = planets[i].mass * planets[j].mass / sqrt(distSqr);
-         double invDist3 = force / distSqr;
-
+         double distSqr = dx*dx + dy*dy + 0.0001;
+         double invDist = planets[i].mass * planets[j].mass / sqrt(distSqr);
+         double invDist3 = invDist * invDist * invDist;
          nextplanets[i].vx += dt * dx * invDist3;
          nextplanets[i].vy += dt * dy * invDist3;
       }
-
       nextplanets[i].x += dt * nextplanets[i].vx;
       nextplanets[i].y += dt * nextplanets[i].vy;
    }
-
    free(planets);
    return nextplanets;
 }
-
-
 
 int main(int argc, const char** argv){
    if (argc < 2) {
