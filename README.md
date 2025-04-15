@@ -35,3 +35,5 @@ In particular, consider speeding up simple run like the following (which runs ~6
 ```
 
 Exact bitwise reproducibility is not required, but approximate correctness (within a reasonable region of the final location).
+
+When running the GPU implementation, the values of the simulation are hard coded variables in the file.
