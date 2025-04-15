@@ -2,6 +2,7 @@
 #include<stdlib.h>
 #include<math.h>
 #include<omp.h>
+#include<math.h>
 
 #include <sys/time.h>
 
@@ -53,7 +54,7 @@ Planet* next(Planet* planets) {
 
    #pragma omp parallel for
    for (int i=0; i<nplanets; i++) {
-      for (int j=0; j<nplanets; j++) {
+      for (int j=i + 1; j<nplanets; j++) {
          double dx = planets[j].x - planets[i].x;
          double dy = planets[j].y - planets[i].y;
          double distSqr = dx*dx + dy*dy + 0.0001;
@@ -68,6 +69,8 @@ Planet* next(Planet* planets) {
    free(planets);
    return nextplanets;
 }
+
+
 
 int main(int argc, const char** argv){
    if (argc < 2) {
@@ -92,6 +95,9 @@ int main(int argc, const char** argv){
    gettimeofday(&start, NULL);
    for (int i=0; i<timesteps; i++) {
       planets = next(planets);
+      if (i % 1000000 == 0) {
+         printf("Step %d: x=%f y=%f vx=%f vy=%f\n", i, planets[nplanets-1].x, planets[nplanets-1].y, planets[nplanets-1].vx, planets[nplanets-1].vy);
+      }
       // printf("x=%f y=%f vx=%f vy=%f\n", planets[nplanets-1].x, planets[nplanets-1].y, planets[nplanets-1].vx, planets[nplanets-1].vy);
    }
    gettimeofday(&end, NULL);
